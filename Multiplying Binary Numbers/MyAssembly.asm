@@ -364,7 +364,23 @@ doit proc			; proc -- procedure
 	; ------------------------------------- Multiplying Binary Numbers ------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=vJ_ZEkKLZ8M&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=24
 
-
+	; - - - - 1 1 1 1
+	; - - - * 1 1 1 1
+	; ---------------
+	;				  carry
+	; 1 1 - - - - - -
+	; - 1 0 - - - - -
+	; - - 1 0 - - - -
+	; - - - 1 0 1 - -
+	; ---------------
+	;				  multiply formula
+	; - - - - 1 1 1 1
+	; - - - 1 1 1 1 0	1+1=10
+	; - - 1 1 1 1 0 0	1+1+1+(1carry)=100
+	; - 1 1 1 1 0 0 0
+	; ----------------
+	;				  total
+	; 1 1 1 0 0 0 0 1
 
 
 
