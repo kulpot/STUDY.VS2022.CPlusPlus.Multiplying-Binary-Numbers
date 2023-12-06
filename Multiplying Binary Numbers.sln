@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiplying Binary Numbers", "Multiplying Binary Numbers\Multiplying Binary Numbers.vcxproj", "{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Debug|x64.ActiveCfg = Debug|x64
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Debug|x64.Build.0 = Debug|x64
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Debug|x86.Build.0 = Debug|Win32
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Release|x64.ActiveCfg = Release|x64
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Release|x64.Build.0 = Release|x64
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Release|x86.ActiveCfg = Release|Win32
+		{8B63DF9F-1BDE-432F-BB01-B4BCEBD32AE6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1769C2DD-DDDA-4E81-B7E1-672B84D8D82B}
+	EndGlobalSection
+EndGlobal
